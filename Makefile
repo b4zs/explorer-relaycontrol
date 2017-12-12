@@ -1,0 +1,2 @@
+run:
+	python relay.py
